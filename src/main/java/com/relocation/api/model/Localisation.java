@@ -1,4 +1,4 @@
 package com.relocation.api.model;
 
-public class Location {
+public class Localisation {
 }
